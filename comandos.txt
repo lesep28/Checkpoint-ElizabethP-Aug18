@@ -1,0 +1,500 @@
+ 77  git pull servidorlocal master
+   78  git status
+   79  git pull servidorlocalmaster
+   80  git pull servidorlocal master
+   81  git push servidorlocalmaster
+   82  git push servidorlocal master
+   83  clear
+   84  git status
+   85  git restore index.html
+   86  git status
+   87  git add index.html
+   88  git restore --stageg index.html
+   89  git status
+   90  git restore --staged index.html
+   91  git status
+   92  git status
+   93  clear
+   94  git restore index.html
+   95  clear
+   96  git add .
+   97  git commit -m "Cambiando el nombre del curso de Ansible"
+   98  git log
+   99  git revert b4f762ca161fdda6f7b113c1631d085d17beb4b6
+  100  git log
+  101  git status
+  102  git stash
+  103  clear
+  104  git status
+  105  git add index.html
+  106  git commit -m "Modificando el nombre del curso de kubernetes"
+  107  clear
+  108  git stash list
+  109  git stash apply 0
+  110  git stash pop
+  111  git stash list
+  112  git stash drop
+  113  git stash list
+  114  clear
+  115  git add .
+  116  git commit -m "Modificando el nombre del curso de Ansible"
+  117  git push servidor local master
+  118  git push servidorlocalmaster
+  119  git push servidorlocal master
+  120  git log --oneline
+  121  git checkout 560778f
+  122  git log --oneline
+  123  git checkout master
+  124  clear
+  125  git log -p
+  126  git log --oneline
+  127  git diff 560778f..69c184a
+  128  git diff
+  129  git add index.html
+  130  git restore --staged index.html
+  131  git status
+  132  git restore index.html
+  133  clear
+  134  git lom -n 2
+  135  git tag -a
+  136  git tag -a v0.1.0 -m "Lanzando la primera versión (BETA) de la aplicación de cursos"
+  137  git tag
+  138  git push servidorlocal master
+  139  git push servidorlocal v0.1.0
+  140  clear
+  141  git remote -v
+  142  git push origin master
+  143  git push origin v0.1.0
+  144  cd desktop
+  145  ls
+  146  cd desktop/oracle/git-github
+  147  cd desktop/oracle
+  148  cd oracle/git-y-github
+  149  git status
+  150  git log
+  151  git config
+  152  git config user
+  153  git config user.name
+  154  git log oneline
+  155  git log --online
+  156  git log --oneline
+  157  clear
+  158  git log --oneline
+  159  git lop -p
+  160  git log --p
+  161  git log -p
+  162  :Q
+  163  clean
+  164  clear
+  165  git status
+  166  gis status
+  167  git status
+  168  git status
+  169  git status
+  170  git status
+  171  git status
+  172  git status
+  173  git status
+  174  git add .gitignore
+  175  gitgit add .gitignore
+  176  git add .gitignore
+  177  git commit -m "Agregando gitignore"
+  178  git status
+  179  git log --oneline
+  180  clear
+  181  cd
+  182  cd ..
+  183  cd/desktop/oracle
+  184   cd desktop/oracle
+  185  ls
+  186  cd hp/
+  187  ls
+  188  cd/desktop
+  189  cd desktop
+  190  cd oracle/
+  191  cd git-y-github
+  192  cd elizabeth/
+  193  git status
+  194  git add all
+  195  cd ..
+  196  git log
+  197  rm -rf .git
+  198  git log
+  199  cd elizabeth/
+  200  git init
+  201  git status
+  202  git add.
+  203  git --help
+  204  :q
+  205  clear
+  206  git status
+  207  git config user.name
+  208  git config user.email
+  209  git config --local user.name "Eli"
+  210  git config user.name
+  211  git status
+  212  git add .
+  213  git status
+  214  git commit -m "Agregando index.html y gitignore"
+  215  git status
+  216  cd ..
+  217  mkdir servidor
+  218  cd servidor/
+  219  git init --bare
+  220  cd ..
+  221  cd elizabeth
+  222  git remote
+  223  clear
+  224  git remote add servidor local C:/Users/hp/Desktop/Oracle/git-y-github/servidor/
+  225  git remote
+  226  git remote add servidorlocal C:/Users/hp/Desktop/Oracle/git-y-github/servidor/
+  227  git remote
+  228  gir remote -v
+  229  git remote -v
+  230  cd ..
+  231  mkdir Ana
+  232  cd Ana/
+  233  clear
+  234  git clone /c/Users/hp/desktop/0racle/git-y-github/servidor/ proyecto
+  235  git clone /c/Users/hp/desktop/oracle/git-y-github/servidor/ proyecto
+  236  cd ..
+  237  cd elizabeth/
+  238  git remote
+  239  git push servidorlocal master
+  240  cd ..
+  241  ls
+  242  cd Ana/proyecto/
+  243  ls
+  244  git remote
+  245  git remote rename origin servidorlocal
+  246  git remote
+  247  git pull servidorlocal
+  248  git pull servidor local master
+  249  git pull servidorlocal master
+  250  git status
+  251  clear
+  252  git add index.html
+  253  git commit -m "Renombrando curso de integración continua"
+  254  git push servidorlocal
+  255  cd ../..
+  256  cd elizabeth
+  257  git pull servidorlocal master
+  258  git log -p
+  259  :q
+  260  clear
+  261  git remote add origin git@github.com:lesep28/alura-git.git
+  262  git push origin master
+  263  git push origin master
+  264  git remote add origin https://github.com/lesep28/alura-git.git
+  265  git remote rm git@github.com:lesep28/alura-git.git
+  266  git remote
+  267  git remote origin
+  268  git remote rm origin
+  269  git remote
+  270  git remote add origin https://github.com/lesep28/alura-git.git
+  271  git remote
+  272  git remote origin
+  273  git branch
+  274  git push origin master
+  275  clear
+  276  git branch
+  277  git branch titulo
+  278  git branch
+  279  git checkout titulo
+  280  git status
+  281  git status
+  282  git status
+  283  git add .
+  284  git commit -m "Modificando el titulo"
+  285  git log
+  286  git status
+  287  git add
+  288  git add .
+  289  git commit -m "Cambio de título por lista de cursos de DevOps de Alura"
+  290  git log
+  291  git checkout master
+  292  git log
+  293  cd ..
+  294  cd Ana
+  295  ls
+  296  cd proyecto/
+  297  git checkout -b lista
+  298  git status
+  299  git add .
+  300  git commit -m
+  301  git commit -m "Agregando cirso de Kubernetes"
+  302  git log
+  303  clear
+  304  git checkout master
+  305  git pull servidorlocas master
+  306  git pull servidorlocalmaster
+  307  git pull servidorlocal master
+  308  git checkout lista
+  309  git add index.html
+  310  git commit -m "Actualizando nombre del curso de Docker"
+  311  git log -p
+  312  git checkout master
+  313  git merge lista
+  314  git status
+  315  git add .
+  316  git commit
+  317  git log --graph
+  318  git push servidorlocal master
+  319  git pull servidorlocal master
+  320  git config --local user.name "Ana"
+  321  git config user.name
+  322  clear
+  323  pwd
+  324  ls
+  325  cd documents
+  326  ls
+  327  cd digital house
+  328  cd Digital house
+  329  ls
+  330  cd Digital House
+  331  mkdir Introducción-informática
+  332  ls
+  333  ls
+  334  cd Digital House
+  335  ls
+  336  cd Digital House
+  337  pwd
+  338  ls
+  339  cd digital house
+  340  cd digitalhouse
+  341  cd 'Digital House'
+  342  ls
+  343  cd introducción-informática
+  344  ls
+  345  mkdir comandos
+  346  ls
+  347  cs comandos
+  348  cd comandos
+  349  mkdir caballos conejos gatitos perritos
+  350  ls
+  351  touch copitodenieve.pdf garfield.txt pelusa.xls
+  352  ls
+  353  code.
+  354  cd code.
+  355  code .
+  356  code .
+  357  ls
+  358  cd desktop
+  359  cd..
+  360  ..
+  361  cd ..
+  362  cd documents
+  363  cd 'Digital House'
+  364  ls
+  365  cd Introducción-informática
+  366  cd proyecto-git
+  367  code .
+  368  touch index.html app.js
+  369  git config -l
+  370  git branch
+  371  git init
+  372  git branch
+  373  code .
+  374  git branch -M main
+  375  git add.
+  376   git add
+  377  git status
+  378  git log .
+  379  git branch
+  380  oh-zsh
+  381  git oh-zsh
+  382  git config --global init.defaultBranch main
+  383  clear
+  384  cd ..
+  385  mkdir Ecommerce
+  386  cd Ecommerce
+  387  touch app.js config.js
+  388  mkdir db
+  389  git init
+  390  git add .
+  391  git commit -m "Primer commit"
+  392  git status
+  393  code .
+  394  cd db/
+  395  touch producto_db.js carrito_db.js
+  396  cd ..
+  397  git commit -m "Guardando lo importante"
+  398  git status
+  399  git add .
+  400  git status
+  401  git status config.js
+  402  git status app.js
+  403  git add .
+  404  git status
+  405  git status
+  406  git add .
+  407  git status
+  408  git add .
+  409  git status
+  410  git commit -m "Guardando lo importante"
+  411  cd db
+  412  rm producto_db.js
+  413  git status
+  414  git restore.
+  415  git restore .
+  416  git status
+  417  rm ../config.js
+  418  git status
+  419  git add .
+  420  git status
+  421  git commit -m "Sacando la configuración"
+  422  clear
+  423  cd documents
+  424  cd "Digital House"
+  425  cd Introducción-informática
+  426  cd c4
+  427  ls
+  428  git clone https://github.com/MayrenS95/C4_Practica_Grupo_14.git
+  429  ls
+  430  cd c4_Practica_Grupo_14
+  431  ls -a
+  432  q
+  433  code .
+  434  pwd
+  435  cd documents
+  436  cd 'Digital House'
+  437  cd 'Introducción-informática'
+  438  cd c5-g1
+  439  ls
+  440  git clone https://github.com/Akaidmaru/grupo01-clase-5.git
+  441  git branch
+  442  git branch main
+  443  git pull
+  444  git pull origin main
+  445  code .
+  446  git branch feature-elizabeth-pena
+  447  code .
+  448  code .
+  449  code .
+  450  code .
+  451  code  ,
+  452  code .
+  453  git status
+  454  git init
+  455  gist status
+  456  git status
+  457  git add .
+  458  gist status
+  459  git status
+  460  git commit -m "Curriculum vitae"
+  461  git remote add origin https://github.com/lesep28/maquetado_cv.git
+  462  git status
+  463  git branch
+  464  git push -u origin main
+  465  q
+  466  code .
+  467  code .
+  468  pwd
+  469  cd documents
+  470  cd "digital house"
+  471  cd introduccion-informatica
+  472  ls
+  473  cd introducción-informática
+  474  mkdir informes
+  475  cd informes
+  476  cd ..
+  477  rm informes
+  478  rmdir informes
+  479  cd..
+  480  cd ..
+  481  cd ..
+  482  cd ..
+  483  cd desktop
+  484  mkdir informes
+  485  cd informes
+  486  touch informeAnual.xls
+  487  ls
+  488  mkdir auditoria
+  489  cd auditoria
+  490  touch auditoria.xls
+  491  touch reporteConsolidado.xls
+  492  ls
+  493  cd ..
+  494  rmdir auditoria
+  495  rm -r auditoria
+  496  ls
+  497  mkdir auditoria
+  498  touch auditoria.xls
+  499  touch reporteConsolidado.xls
+  500  ls
+  501  mv auditoria.xls auditoria/
+  502  cd auditoria
+  503  ls
+  504  nano auditoria.xls
+  505  git --version
+  506  git config user.email
+  507  git config user.name
+  508  cd ..
+  509  git init
+  510  cd ..
+  511  cd ..
+  512  cd documents
+  513  cd digital house
+  514  cd "digital house"
+  515  cd introducción-informática
+  516  mkdir practica
+  517  cd practica
+  518  git init
+  519  touch app.js
+  520  git status
+  521  git add app.js
+  522  git status
+  523  cd ..
+  524  mkdir mercadoAbierto
+  525  cd mercadoAbierto
+  526  git init
+  527  touch productos.js
+  528  git status
+  529  git add productos.js
+  530  git status
+  531  git commit -m "mi primer commit"
+  532  git status
+  533  cd ..
+  534  git clon https://github.com/lesep28/hyperblog.git
+  535  git clone https://github.com/lesep28/hyperblog.git
+  536  cd hyperblog
+  537  ls
+  538  touch app.js
+  539  git status
+  540  git add app.js
+  541  git status
+  542  git commit -m"mi primer commit"
+  543  git status
+  544  git push origin main
+  545  git status
+  546  it branch --list
+  547  git branch --list
+  548  cd ..
+  549  mkdir Checkpoint1
+  550  cd checkpoint
+  551  cd checkpoint1
+  552  git remote add origin https://github.com/lesep28/Checkpoint-ElizabethP-Aug18.git
+  553  git init
+  554  git remote add origin https://github.com/lesep28/Checkpoint-ElizabethP-Aug18.git
+  555  git remote -v
+  556  touch main.js index.html
+  557  ls
+  558  git add .
+  559  git commit -m "commit 01 ElizabethPena"
+  560  git push -u origin main
+  561  git checkout -b feature
+  562  mkdir Hardware Software SeguridadInformatica
+  563  ls
+  564  touch Hardware/resumen.txt Software/resumen.txt
+  565  code .
+  566  history
+  567  cp Hardware/resumen.txt SeguridadInformatica/
+  568  git add .
+  569  git status
+  570  git commit -m "commit 02 ElizabethPena"
+  571  git push origin feature
+  572  git checkout main
+  573  git mv main.js resumenHardware.txt
+  574  git mv index.html resumenSoftware.txt
+  575  touch comandos.txt
+  576  history

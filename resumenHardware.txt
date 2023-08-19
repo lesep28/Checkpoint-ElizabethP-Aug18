@@ -1,0 +1,4 @@
+Memorias principales de la memoria:
+1. ROM
+2. RAM
+3. Caché
